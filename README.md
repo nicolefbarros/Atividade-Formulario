@@ -1,4 +1,3 @@
-Atividade Formulário : Nicole Barros e Thifany Godoi
 <h1>Atividade-Formulário : Nicole Barros e Thifany Godoi</h1>
 
 <hr>
