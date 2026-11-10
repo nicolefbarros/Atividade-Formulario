@@ -2,7 +2,7 @@
 
 <hr>
 
-<h1>Sistema de Cadastro de Leads / Clientes 🚀</h1>
+<h1>Sistema de Cadastro de Clientes 🚀</h1>
 
 <p>
   Projeto desenvolvido como parte da atividade prática da disciplina de
