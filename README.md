@@ -29,7 +29,7 @@
   <li>Cadastro permitido apenas para maiores de 18 anos.</li>
   <li>Formatação automática do nome com a primeira letra de cada palavra em maiúscula.</li>
   <li>Verificação de preenchimento de todos os campos obrigatórios.</li>
-  <li>Sanitização do campo Observações contra injeção de scripts (XSS) usando <code>htmlspecialchars()</code>.</li>
+  <li>Sanitização do campo Observações contra injeção de scripts (XSS) </code>.</li>
 </ul>
 
 <hr>
